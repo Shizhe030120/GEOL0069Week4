@@ -1,5 +1,5 @@
 
-# 作业的名字
+# week 4 assignment
 
 比如： The focus of this project is to offer a **practical guide** to implementing unsupervised learning methods, with an emphasis on **real-world applications** in **classification tasks**.
 
