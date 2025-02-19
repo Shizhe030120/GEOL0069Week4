@@ -32,13 +32,13 @@ While unsupervised learning can be used for a variety of tasks, this project pri
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/xxxxx.git
+git clone [https://github.com/xxxxx.git](https://github.com/Shizhe030120/GEOL0069Week4.git)
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd your project name
+cd GEOL0069Week4
 ```
 
 
